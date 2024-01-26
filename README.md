@@ -1,3 +1,6 @@
+To view the actual code:https://github.com/ADITYA-MAHAJAN-07/Springboot-REST-API-CURD-operations/tree/9a8ac5a89f127302dfe3ecd0a5f530a5d92e016d/restapp/src/main/java/com/restful/restapp
+or 
+go to 
 This repository houses a robust backend application developed using Spring Boot and RESTful API principles. The primary focus of this project is to demonstrate seamless CRUD (Create, Read, Update, Delete) operations for efficient data management.
 
 Key Features:
